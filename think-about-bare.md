@@ -1,9 +1,16 @@
 # 広島Git
 
+subtitle
+:	Bareリポジトリについて
+
 author
-   @ryosms
+:   @ryosms
+
 date
-   2013/06/01
+:   2013/06/01
+
+theme
+:	rabbit
 
 # 最初のスライド
 
