@@ -26,3 +26,9 @@ theme
 
 
 
+# おしまい
+
+* ご静聴ありがとうございました
+
+![](./images/bell6.png){:relative_height='90' reflect_ratio='0.5'}
+
