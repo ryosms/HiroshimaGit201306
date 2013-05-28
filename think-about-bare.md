@@ -14,7 +14,8 @@ theme
 
 # 自己紹介(1)
 
-* [@ryosms](https://twitter.com/ryosms)
+* Twitter: [@ryosms](https://twitter.com/ryosms)
+* GitHub: [ryosms](https://github.com/ryosms)
 * 岡山Gitユーザ会([#okagit](https://twitter.com/search/realtime?q=%23okagit&src=typd))代表
 	* [http://okagit.github.io/](http://okagit.github.io/)
 * VSCへの取り組みとか
