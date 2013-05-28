@@ -32,6 +32,26 @@ theme
 	* 操作はpushで
 * remote ≒ Bare
 
+# 作り方(1)
+
+* 新規作成
+
+		git init --bare
+
+* 既存リポジトリから
+
+		git clone --bare hoge fuga
+
+	* sharedオプションとかもあるけど
+
+# 作り方(2)
+
+* ホスティングサービス
+	* 例）GitHub
+
+![](./images/github.png){:relative_width="90" reflect_ratio="0.5"}
+
+![](./images/github2.png){:relative_width="60" reflect_ratio="0.5"}
 
 # おしまい
 
