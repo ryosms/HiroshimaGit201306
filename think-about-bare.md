@@ -25,6 +25,12 @@ theme
 
 ![](./images/tweet.png){:relative_width="70" reflect_ratio='0.5'}
 
+# Bareリポジトリとは
+
+* 所謂「中央リポジトリ」
+	* ワーキングディレクトリを持たない
+	* 操作はpushで
+* remote ≒ Bare
 
 
 # おしまい
