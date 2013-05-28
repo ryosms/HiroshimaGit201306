@@ -12,6 +12,9 @@ date
 theme
 :	rabbit
 
+allotted-time
+:	15m
+
 # 自己紹介(1)
 
 * Twitter: [@ryosms](https://twitter.com/ryosms)
