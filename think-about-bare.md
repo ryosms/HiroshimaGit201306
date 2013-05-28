@@ -12,12 +12,17 @@ date
 theme
 :	rabbit
 
-# 最初のスライド
+# 自己紹介(1)
 
-* 項目1
-* 項目2
-* 項目3
+* [@ryosms](https://twitter.com/ryosms)
+* 岡山Gitユーザ会([#okagit](https://twitter.com/search/realtime?q=%23okagit&src=typd))代表
+	* [http://okagit.github.io/](http://okagit.github.io/)
+* VSCへの取り組みとか
+	* [http://goo.gl/9Qaqp](http://twilog.org/ryosms/search?word=VSS)
 
-# 二番目のスライド
+# 自己紹介(2)
 
-![](https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png){:relative_height='100'}
+![](./images/tweet.png){:relative_width="70" reflect_ratio='0.5'}
+
+
+
