@@ -31,6 +31,7 @@ theme
 	* ワーキングディレクトリを持たない
 	* 操作はpushで
 * remote ≒ Bare
+* Bare != Bear
 
 # 作り方(1)
 
