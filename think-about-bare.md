@@ -65,6 +65,9 @@ allotted-time
 
 ![](./images/github2.png){:relative_width="60" reflect_ratio="0.5"}
 
+# 置き場所
+
+
 # おしまい
 
 * ご静聴ありがとうございました
