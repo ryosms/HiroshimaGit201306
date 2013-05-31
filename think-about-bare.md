@@ -44,19 +44,21 @@ allotted-time
 
 # 作り方(1)
 
-* 新規作成
+* ローカル環境の場合
 
-		git init --bare
+新規作成
 
-* 既存リポジトリから
+	git init --bare
 
-		git clone --bare hoge fuga
+既存リポジトリから
+
+	git clone --bare hoge fuga
 
 	* sharedオプションとかもあるけど
 
 # 作り方(2)
 
-* ホスティングサービス
+* ホスティングサービスの場合
 	* 例）GitHub
 
 ![](./images/github.png){:relative_width="90" reflect_ratio="0.5"}
