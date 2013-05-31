@@ -21,8 +21,8 @@ allotted-time
 * GitHub: [ryosms](https://github.com/ryosms)
 * 岡山Gitユーザ会([#okagit](https://twitter.com/search/realtime?q=%23okagit&src=typd))代表
 	* [http://okagit.github.io/](http://okagit.github.io/)
-* VSCへの取り組みとか
-	* [http://goo.gl/9Qaqp](http://twilog.org/ryosms/search?word=VSS)
+* 広島まで来た理由
+	* Ingressだよ言わせんな恥ずかしい
 
 # 自己紹介(2)
 
