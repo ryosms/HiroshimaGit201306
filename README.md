@@ -1,24 +1,10 @@
-# 広島Git
+# 広島Git勉強会
 
-TODO: スライドの説明
+2013/06/01 [広島Git勉強会201306](http://local.aguuu.com/events/15354)用スライド
 
-## 作者向け
+スライドの表示は[Rabbit](http://rabbit-shocker.org/ja/)を使う前提で作成しています。
 
-### 表示
+スライド形式で見たい場合は、Rabbitインストール後に本リポジトリをクローンしたディレクトリで以下のコマンドを叩いてください。
+
 
     rake
-
-### 公開
-
-    rake publish
-
-## 閲覧者向け
-
-### インストール
-
-    gem install rabbit-slide--HiroshimaGit201306
-
-### 表示
-
-    rabbit rabbit-slide--HiroshimaGit201306.gem
-
