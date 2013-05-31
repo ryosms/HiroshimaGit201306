@@ -28,6 +28,12 @@ allotted-time
 
 ![](./images/tweet.png){:relative_width="70" reflect_ratio='0.5'}
 
+# お品書き
+
+* Bareリポジトリとは
+* どーやって作るの？
+* どこに置けばいいの？
+
 # Bareリポジトリとは
 
 * 所謂「中央リポジトリ」
