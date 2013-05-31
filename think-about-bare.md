@@ -21,12 +21,11 @@ allotted-time
 * GitHub: [ryosms](https://github.com/ryosms)
 * 岡山Gitユーザ会([#okagit](https://twitter.com/search/realtime?q=%23okagit&src=typd))代表
 	* [http://okagit.github.io/](http://okagit.github.io/)
-* 広島まで来た理由
-	* Ingressだよ言わせんな恥ずかしい
+* 広島にはIngressやりに来ました
 
 # 自己紹介(2)
 
-![](./images/tweet.png){:relative_width="70" reflect_ratio='0.5'}
+![](./images/tweet.png){:relative_height="90" reflect_ratio='0.5'}
 
 # お品書き
 
@@ -52,26 +51,21 @@ allotted-time
 
 		git clone --bare hoge fuga
 
-	* sharedオプションとかもあるけど
-
 # 作り方(2)
 
-* ホスティングサービスの場合
-	* 例）GitHub
+* ホスティングサービス(GitHub)
 
 ![](./images/github.png){:relative_width="90" reflect_ratio="0.5"}
 
-![](./images/github2.png){:relative_width="60" reflect_ratio="0.5"}
+![](./images/github2.png){:relative_width="45" reflect_ratio="0.5"}
 
 # 置き場所(分類)
 
-	+ Gitガチ勢
-	+ ホスティングサービス活用勢
-	|   + 課金兵士
-	|   + 無課金兵士
-	+ ぼっち開発者
-	    + オンラインストレージ
-	    + ファイル共有
+* Gitガチ勢
+* ホスティングサービス活用勢
+	* 課金兵士
+	* 無課金兵士
+* ぼっち開発者
 
 # Gitガチ勢
 
@@ -96,6 +90,15 @@ allotted-time
 	* [SugarSync](http://www.sugarsync.jp/)
 	* etc…
 * ファイル共有
+
+# で、どれがいいの？
+
+* 1番はホスティングサービス
+	* GitHubは別格
+	* アカウントだけはとっとけ
+* 次にオンラインストレージ
+* 自前サーバーは趣味の世界
+
 
 # おしまい
 
