@@ -63,8 +63,39 @@ allotted-time
 
 ![](./images/github2.png){:relative_width="60" reflect_ratio="0.5"}
 
-# 置き場所
+# 置き場所(分類)
 
+	+ Gitガチ勢
+	+ ホスティングサービス活用勢
+	|   + 課金兵士
+	|   + 無課金兵士
+	+ ぼっち開発者
+	    + オンラインストレージ
+	    + ファイル共有
+
+# Gitガチ勢
+
+* [GitLab](http://gitlab.org/)
+* [gitolite](https://github.com/sitaramc/gitolite)
+* [ALMinium](http://alminium.github.io/alminium/)
+* [Gitblit](http://gitblit.com/)
+* etc...
+
+# ホスティングサービス
+
+* [GitHub](https://github.com/)
+* [Bitbucket](https://bitbucket.org/)
+* [Google Code](https://code.google.com/intl/ja-JP/)
+* [assembla](https://www.assembla.com/home)
+* etc...
+
+# ぼっち開発者
+
+* オンラインストレージ
+	* [Dropbox](https://www.dropbox.com/)
+	* [SugarSync](http://www.sugarsync.jp/)
+	* etc…
+* ファイル共有
 
 # おしまい
 
