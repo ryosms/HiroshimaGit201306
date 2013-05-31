@@ -44,15 +44,13 @@ allotted-time
 
 # 作り方(1)
 
-* ローカル環境の場合
+* 新規作成
 
-新規作成
+		git init --bare
 
-	git init --bare
+* 既存リポジトリから
 
-既存リポジトリから
-
-	git clone --bare hoge fuga
+		git clone --bare hoge fuga
 
 	* sharedオプションとかもあるけど
 
