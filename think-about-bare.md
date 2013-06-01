@@ -99,6 +99,14 @@ allotted-time
 * 次にオンラインストレージ
 * 自前サーバーは趣味の世界
 
+# リンク
+
+* [ryosms/HiroshimaGit201306 - GitHub](https://github.com/ryosms/HiroshimaGit201306)
+	* このスライド資料
+
+* [Github の楽しみ方 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/05/13/how-to-enjoy-github/)
+	* ひむひむマジひむひむ
+
 
 # おしまい
 
